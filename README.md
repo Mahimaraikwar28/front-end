@@ -1,3 +1,29 @@
+# Volopay Assignment
+
+## Live Application URL 
+https://radiant-flan-33dae1.netlify.app/ 
+
+## Cloning the project
+Install all the npm packages using command
+
+npm install
+
+
+To run the application write the following command
+
+
+npm start
+
+## Features
+
+- Three Tabs namely Your, All and Blocked 
+- Filter functionality that is in the form of dropdown which has filter by card type and card name.
+- The page contains the cards.
+- Cards are of two types Burner and Subscription
+- Functinality of infinite scrolling and fetching 10 records per call.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
